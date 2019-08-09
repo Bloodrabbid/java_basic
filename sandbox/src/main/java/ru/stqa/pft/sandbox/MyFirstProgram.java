@@ -3,7 +3,7 @@ package ru.stqa.pft.sandbox;
 public class MyFirstProgram {
 	
 	public static void main (String[] args) {
-		
+
 		hey("Java");
 		double l = 5;
 		double a = 4;
